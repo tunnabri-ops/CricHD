@@ -5,28 +5,5 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 08:02:55 PM 16-09-2026
+#last update time: 12:02:51 AM 17-09-2026
 
-# --- Cricket Live Events ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - Willow Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/willowsd.m3u8?md5=CpN0ZTW0D8LEuiYyfgx5Cw&expires=1789572038&ch=willowsd&s=83e3d45312b7d08e7a057af2c389b985
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - Star Sports 2
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/star2cl5.m3u8?md5=B46t5nxnmqWFTSXzUJtDJQ&expires=1789572041&ch=star2cl5&s=459c83db3e62a01501dc51cb46298285
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - Willow HD
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=4S2a0fWmmXjDRNNl3xSi7g&expires=1789572044&ch=hdwillos5&s=8df57c6eec06e76e01372889668dd782
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - CricGo 5
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/cricgo5.m3u8?md5=70YDkhxBb7AiAsX-BMIkhQ&expires=1789572053&ch=cricgo5&s=1041d321895cb6024146a34580cc8256
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Barbados%20Tridents%20Women%20vs%20Guyana%20Amazon%20Warriors%20Women.png" group-title="Womens Caribbean Premier League 2026", Barbados Tridents Women vs Guyana Amazon Warriors Women - TNT Cricket
-#EXTVLCOPT:http-referrer=https://playerr03.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/bbtsvp2.m3u8?md5=rq-1Lfo6V-z_46WI9Yq12w&expires=1789572056&ch=bbtsvp2&s=bbc446e16c16def3f154ded7e1e0382b
-
-# --- 24/7 Channels ---
