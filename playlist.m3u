@@ -5,5 +5,28 @@
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 04:32:15 AM 26-09-2026
+#last update time: 06:32:18 AM 26-09-2026
 
+# --- Cricket Live Events ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20Nepal.png" group-title="Asian Games 2026", Japan vs Nepal - Willow Cricket
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/willowsd.m3u8?md5=aLjP_-c8qddBrorOPBWLiQ&expires=1790385642&ch=willowsd&s=3f01de7034b1e0a7c0d59d9eee6d6fcb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20Nepal.png" group-title="Asian Games 2026", Japan vs Nepal - Willow Xtra
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz01.bhalocast.com:7060/hls/wextres5.m3u8?md5=sfftV25nZctwSZxL3uBIMw&expires=1790385645&ch=wextres5&s=428e18a63bccbc3d85cf1d0e61666925
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20Nepal.png" group-title="Asian Games 2026", Japan vs Nepal - Sony Sports Ten 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/ten1co.m3u8?md5=Lmk5wSqhwh3gj-cr1es97Q&expires=1790385648&ch=ten1co&s=24ae9914315695556449430e5c11cc05
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20Nepal.png" group-title="Asian Games 2026", Japan vs Nepal - Willow HD
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/hdwillos5.m3u8?md5=ChPVNiE6mqOhW_bJrTUS4g&expires=1790385651&ch=hdwillos5&s=c236ab138a9000b91ce05dbb2bea7fdc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Japan%20vs%20Nepal.png" group-title="Asian Games 2026", Japan vs Nepal - CricGo 1
+#EXTVLCOPT:http-referrer=https://playerr03.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://mz02.bhalocast.com:7060/hls/cricgo1.m3u8?md5=Dz1SOl6tSrse5s4WLbfFEQ&expires=1790385653&ch=cricgo1&s=cd098826fe2bad6ad716c18804f9018c
+
+# --- 24/7 Channels ---
